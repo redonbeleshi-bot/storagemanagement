@@ -8,3 +8,7 @@ Ky projekt është një aplikacion web për menaxhimin e magazinës së një hot
 - Dart
 - Supabase
 - PostgreSQL
+
+Per te hyre ne aplikacion
+Username : admin  
+Password : admin123
